@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ssejjemba/GTM-Website/issues"
   },
-  "homepage": "https://github.com/ssejjemba/GTM-Website#readme"
+  "homepage": "https://github.com/ssejjemba/GTM-Website#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
 }
