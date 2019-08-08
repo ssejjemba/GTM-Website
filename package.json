@@ -1,0 +1,26 @@
+{
+  "name": "gtm-website",
+  "version": "1.0.0",
+  "description": "A charity organization website with SCSS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssejjemba/GTM-Website.git"
+  },
+  "keywords": [
+    "gtm",
+    "charity",
+    "donations",
+    "africa",
+    "uganda"
+  ],
+  "author": "Ssejjemba Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssejjemba/GTM-Website/issues"
+  },
+  "homepage": "https://github.com/ssejjemba/GTM-Website#readme"
+}
