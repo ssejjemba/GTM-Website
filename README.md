@@ -1,2 +1,2 @@
 # GTM-Website
-This is a website for a charity organisation
+This is a website for a charity organization
