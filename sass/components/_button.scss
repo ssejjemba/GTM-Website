@@ -14,10 +14,10 @@
     &:hover {
         transform: translateY(-.3rem);
         box-shadow: 0 1rem 2rem rgba($color-black, .2);
-        &::after {
+        /* &::after {
             transform: scaleX(1.4) scaleY(1.6);
             opacity: 0;
-        }
+        } */
     }
     
     &:active {
@@ -25,7 +25,7 @@
         box-shadow: 0 .5rem 1rem rgba($color-black, .2);
     }
     
-    &::after {
+    /* &::after {
         content: "";
         display: inline-block;
         height: 100%;
@@ -36,14 +36,14 @@
         left: 0;
         z-index: -1;
         transition: all .4s;
-    }
+    } */
     
     &--white {
         background-color: $color-white;
         color: $color-grey-dark;
-        &::after {
+        /* &::after {
             background-color: $color-white;
-        }
+        } */
     }
     
     &--animated {
